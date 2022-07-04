@@ -1,7 +1,12 @@
 {
 	"page": [
 		{
-			"visible": false
+			"visible": true,
+			"name": "dsfgs"
+		},
+		{
+			"name": "sdfg",
+			"visible": true
 		}
 	]
 }

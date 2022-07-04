@@ -1,3 +1,13 @@
 {
-	"page": []
+	"page": [
+		{
+			"name": "Home",
+			"visible": false,
+			"bloc": [
+				{
+					"visible": false
+				}
+			]
+		}
+	]
 }

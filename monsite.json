@@ -2,5 +2,15 @@
 	"site": "mon site",
 	"bloc": "mon bloc",
 	"maprop": "ma propriété",
-	"mavaleur": "ma valeur"
+	"mavaleur": "ma valeur",
+	"profile": {
+		"social": [
+			{}
+		]
+	},
+	"company": {
+		"social": [
+			{}
+		]
+	}
 }

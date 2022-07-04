@@ -4,16 +4,18 @@
 	"maprop": "ma propriété",
 	"mavaleur": "ma valeur",
 	"profile": {
-		"_social": [
-			{}
+		"email": [
+			null,
+			null
 		],
 		"social_network": [
 			{}
 		]
 	},
 	"company": {
-		"_social": [
-			{}
+		"email": [
+			null,
+			null
 		],
 		"social_network": [
 			{}

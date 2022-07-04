@@ -2,11 +2,26 @@
 	"page": [
 		{
 			"visible": true,
-			"name": "dsfgs"
+			"name": "dsfgs",
+			"bloc": [
+				{
+					"name": "hero",
+					"visible": false,
+					"title": "Title",
+					"subtitle": "Subitle",
+					"description": "Description",
+					"link": "Link"
+				}
+			]
 		},
 		{
 			"name": "sdfg",
-			"visible": true
+			"visible": true,
+			"bloc": [
+				{
+					"visible": false
+				}
+			]
 		}
 	]
 }

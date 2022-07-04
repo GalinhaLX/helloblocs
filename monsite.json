@@ -6,10 +6,16 @@
 	"profile": {
 		"_social": [
 			{}
+		],
+		"social_network": [
+			{}
 		]
 	},
 	"company": {
 		"_social": [
+			{}
+		],
+		"social_network": [
 			{}
 		]
 	}

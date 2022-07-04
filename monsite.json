@@ -4,11 +4,19 @@
 	"maprop": "ma propriété",
 	"mavaleur": "ma valeur",
 	"profile": {
+		"email": [
+			null,
+			null
+		],
 		"social": [
 			{}
 		]
 	},
 	"company": {
+		"email": [
+			null,
+			null
+		],
 		"social": [
 			{}
 		]

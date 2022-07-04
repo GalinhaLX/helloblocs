@@ -5,6 +5,7 @@
 			"visible": false,
 			"bloc": [
 				{
+					"name": "Hero",
 					"visible": false
 				}
 			]

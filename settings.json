@@ -1,8 +1,9 @@
 {
 	"page": [
 		{
-			"visible": true,
-			"name": "dsfgs",
+			"visible": false,
+			"name": "Homepage",
+			"stoquage": "github",
 			"bloc": [
 				{
 					"name": "hero",
@@ -15,9 +16,14 @@
 			]
 		},
 		{
-			"name": "sdfg",
-			"visible": true,
+			"visible": false,
 			"bloc": [
+				{
+					"visible": false
+				},
+				{
+					"visible": false
+				},
 				{
 					"visible": false
 				}

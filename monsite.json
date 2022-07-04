@@ -5,6 +5,9 @@
 	"mavaleur": "ma valeur",
 	"profile": [
 		{
+			"phone": "33"
+		},
+		{
 			"email": [
 				null,
 				null
@@ -13,9 +16,6 @@
 				{}
 			],
 			"phone": "44"
-		},
-		{
-			"phone": "33"
 		}
 	],
 	"company": {

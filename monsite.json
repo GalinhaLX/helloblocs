@@ -16,8 +16,8 @@
 			],
 			"name": "hero",
 			"visible": false,
-			"title": "mon titre",
-			"subtitle": "titre 2"
+			"title": "mon titre 1",
+			"subtitle": "titre 1"
 		},
 		{
 			"bloc": [
@@ -31,7 +31,9 @@
 				}
 			],
 			"name": "nav1",
-			"visible": false
+			"visible": false,
+			"title": "titre bloc 2",
+			"subtitle": "sous titre 2"
 		}
 	]
 }

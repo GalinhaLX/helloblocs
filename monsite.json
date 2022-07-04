@@ -33,7 +33,8 @@
 			"name": "nav1",
 			"visible": false,
 			"title": "titre bloc 2",
-			"subtitle": "sous titre 2"
+			"subtitle": "sous titre 2",
+			"description": "description 2"
 		}
 	]
 }

@@ -3,15 +3,20 @@
 	"bloc": "mon bloc",
 	"maprop": "ma propriété",
 	"mavaleur": "ma valeur",
-	"profile": {
-		"email": [
-			null,
-			null
-		],
-		"social_network": [
-			{}
-		]
-	},
+	"profile": [
+		{
+			"email": [
+				null,
+				null
+			],
+			"social_network": [
+				{}
+			]
+		},
+		{
+			"phone": "33"
+		}
+	],
 	"company": {
 		"email": [
 			null,

@@ -2,7 +2,6 @@
 	"page": [
 		{
 			"visible": false,
-			"name": "Homepage",
 			"stoquage": "github",
 			"bloc": [
 				{
@@ -12,20 +11,6 @@
 					"subtitle": "Subitle",
 					"description": "Description",
 					"link": "Link"
-				}
-			]
-		},
-		{
-			"visible": false,
-			"bloc": [
-				{
-					"visible": false
-				},
-				{
-					"visible": false
-				},
-				{
-					"visible": false
 				}
 			]
 		}

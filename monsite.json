@@ -1,48 +1,17 @@
 {
-	"site": "mon site",
-	"bloc": "mon bloc",
-	"maprop": "ma propriété",
-	"mavaleur": "ma valeur",
 	"profile": [
-		{
-			"phone": "33"
-		},
-		{
-			"email": [
-				null,
-				null
-			],
-			"social_network": [
-				{}
-			],
-			"phone": "44"
-		}
+		{}
 	],
-	"company": {
-		"email": [
-			null,
-			null
-		],
-		"social_network": [
-			{}
-		]
-	},
 	"page": [
 		{
-			"name": "about",
 			"bloc": [
 				{
 					"name": "hero",
-					"visible": false,
-					"title": "Title",
-					"subtitle": "Subitle",
-					"description": "Description",
-					"link": "Link"
+					"visible": false
 				}
 			]
 		},
 		{
-			"name": "home",
 			"bloc": [
 				{
 					"name": "hero",

@@ -1,3 +1,20 @@
 {
-	
+	"site": "mon site",
+	"bloc": "mon bloc",
+	"maprop": "ma propriété",
+	"mavaleur": "ma valeur",
+	"profile": {
+		"social": [
+			{}
+		]
+	},
+	"company": {
+		"email": [
+			null,
+			null
+		],
+		"social": [
+			{}
+		]
+	}
 }

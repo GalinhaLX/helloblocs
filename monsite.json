@@ -26,5 +26,33 @@
 		"social_network": [
 			{}
 		]
-	}
+	},
+	"page": [
+		{
+			"name": "about",
+			"bloc": [
+				{
+					"name": "hero",
+					"visible": false,
+					"title": "Title",
+					"subtitle": "Subitle",
+					"description": "Description",
+					"link": "Link"
+				}
+			]
+		},
+		{
+			"name": "home",
+			"bloc": [
+				{
+					"name": "hero",
+					"visible": false,
+					"title": "Title",
+					"subtitle": "Subitle",
+					"description": "Description",
+					"link": "Link"
+				}
+			]
+		}
+	]
 }

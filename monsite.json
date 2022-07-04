@@ -14,7 +14,6 @@
 					"visible": false
 				}
 			],
-			"name": "Chris",
 			"visible": false,
 			"title": "mon titre 1",
 			"subtitle": "titre 1"
@@ -30,11 +29,11 @@
 					"visible": false
 				}
 			],
-			"name": "Chris",
 			"visible": false,
 			"title": "titre bloc 2",
 			"subtitle": "sous titre 2",
-			"description": "description 2"
+			"description": "description 2-B",
+			"link": "linky2"
 		}
 	]
 }

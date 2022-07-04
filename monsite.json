@@ -14,7 +14,11 @@
 		{
 			"bloc": [
 				{
-					"name": "hero",
+					"name": "nav2",
+					"visible": false
+				},
+				{
+					"name": "nav1",
 					"visible": false,
 					"title": "Title",
 					"subtitle": "Subitle",

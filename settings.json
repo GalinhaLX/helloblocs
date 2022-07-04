@@ -2,6 +2,9 @@
 	"page": [
 		{
 			"name": "Homepage",
+			"visible": false
+		},
+		{
 			"visible": true
 		}
 	]
